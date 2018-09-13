@@ -1,1 +1,1 @@
-Creating a README.md file for my hellow-world repository
+Creating a README.md file for my hello-world repository
